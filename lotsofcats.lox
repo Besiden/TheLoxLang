@@ -1,0 +1,17 @@
+var cat = "cat";
+
+for(var i = 0; i < 5; i=i+1){
+    print(cat);
+}
+
+fun multiplyTwoNumnbers(a,b){
+    print a * b;    
+}   
+
+var dog;
+
+dog = 23;
+
+print dog;
+
+multiplyTwoNumnbers(5,10);
